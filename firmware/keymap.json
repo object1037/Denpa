@@ -1,0 +1,28 @@
+{
+  "keyboard": "Denpa",
+  "keymap": "default",
+  "layout": "LAYOUT",
+  "layers": [
+    [
+      "ESC",     "1",    "2",    "3",    "4",    "5",    "6",    "7",    "8",    "9",    "0",    "MINS", "BSPC",
+      "TAB",     "Q",    "W",    "E",    "R",    "T",            "Y",    "U",    "I",    "O",    "P",    "LBRC",
+      "KC_LCTL", "A",    "S",    "D",    "F",    "G",            "H",    "J",    "K",    "L",    "SCLN", "QUOT",
+      "KC_LSFT", "Z",    "X",    "C",    "V",    "B",            "N",    "M",    "COMM", "DOT",  "SLSH", "GRV",
+                      "KC_LALT", "KC_LGUI", "MO(1)", "ENT", "SPC", "MO(2)", "KC_RGUI", "KC_RALT"
+    ],
+    [
+      "TRNS", "F1",   "F2",   "F3",   "F4",   "F5",   "F6",   "F7",   "F8",   "F9",   "F10",  "EQL",  "TRNS",
+      "TRNS", "1",    "2",    "3",    "4",    "5",            "6",    "7",    "8",    "9",    "0",    "RBRC",
+      "TRNS", "TRNS", "TRNS", "TRNS", "TRNS", "TRNS",         "LEFT", "DOWN", "UP",   "RGHT", "BSLS", "TRNS",
+      "TRNS", "TRNS", "TRNS", "TRNS", "TRNS", "TRNS",         "TRNS", "TRNS", "TRNS", "TRNS", "TRNS", "TRNS",
+                      "TRNS", "TRNS", "TRNS", "TRNS", "TRNS", "TRNS", "VOLD", "VOLU"
+    ],
+    [
+      "ENT_SLP", "ADV_ID0", "ADV_ID1", "ADV_ID2", "ADV_ID3", "PERC", "CIRC", "AMPR", "ASTR", "LPRN", "RPRN", "UNDS", "PLUS",
+      "TRNS",    "!",       "AT",      "HASH",    "DLR",     "PERC",         "CIRC", "AMPR", "ASTR", "LPRN", "RPRN", "UNDS",
+      "TRNS",    "AD_WO_L", "TRNS",    "TRNS",    "TRNS",    "TRNS",         "TRNS", "TRNS", "TRNS", "TRNS", "TRNS", "TRNS",
+      "TRNS",    "TRNS",    "TRNS",    "SEL_USB", "BATT_LV", "SEL_BLE",      "TRNS", "TRNS", "TRNS", "TRNS", "TRNS", "TRNS",
+                      "TRNS", "TRNS", "TRNS", "TRNS", "TRNS", "TRNS", "TRNS", "TRNS"
+    ]
+  ]
+}
