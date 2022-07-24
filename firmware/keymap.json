@@ -8,7 +8,7 @@
       "TAB",     "Q",    "W",    "E",    "R",    "T",            "Y",    "U",    "I",    "O",    "P",    "LBRC",
       "KC_LCTL", "A",    "S",    "D",    "F",    "G",            "H",    "J",    "K",    "L",    "SCLN", "QUOT",
       "KC_LSFT", "Z",    "X",    "C",    "V",    "B",            "N",    "M",    "COMM", "DOT",  "SLSH", "GRV",
-                      "KC_LALT", "KC_LGUI", "MO(1)", "ENT", "SPC", "MO(2)", "KC_RGUI", "KC_RALT"
+                      "KC_LALT", "KC_LGUI", "LT(1,ENT)", "ENT", "SPC", "LT(2,SPC)", "KC_RGUI", "KC_RALT"
     ],
     [
       "TRNS", "F1",   "F2",   "F3",   "F4",   "F5",   "F6",   "F7",   "F8",   "F9",   "F10",  "EQL",  "TRNS",
